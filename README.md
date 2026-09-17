@@ -29,15 +29,6 @@
 ## About me
 
 <img align="right" alt="Developer at work" width="310" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-
-I'm **Ayush Singh**, a first-year **B.Tech Computer Science student specialising in Artificial Intelligence & Machine Learning** at **SRM Institute of Science and Technology**. I enjoy turning ideas into thoughtful web experiences, learning how intelligent systems work, and steadily becoming a stronger software engineer.
-
-- 🔭 Currently exploring **web development, Python, and the AI/ML ecosystem**
-- 🌱 Building foundations through projects, problem-solving, and open-source learning
-- 💡 I care about clean interfaces, useful products, and code that tells a clear story
-- 🎮 Away from the keyboard, you'll probably find me gaming or chasing the next challenge
-- 📫 Reach me at **090109ayush@gmail.comm**
-
 <br clear="right" />
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc,100:34d399&height=3&section=header&animation=fadeIn)
