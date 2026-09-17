@@ -22,8 +22,9 @@
 
 <!-- ── ABOUT ─────────────────────────────────────────────────── -->
 
-
-<img align="right" alt="Developer at work" width="310" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<table>
+<tr>
+<td width="60%" valign="middle">
 
 ```typescript
 const ayush = {
@@ -44,6 +45,15 @@ const ayush = {
     openTo      : ["collabs", "internships", "interesting problems"],
 } as const;
 ```
+
+</td>
+<td width="40%" valign="middle" align="center">
+
+<img alt="Developer at work" width="300" height="300" style="object-fit:cover;" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
+</td>
+</tr>
+</table>
 
 <!-- ── FEATURED PROJECTS ─────────────────────────────────────── -->
 
