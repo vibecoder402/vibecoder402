@@ -23,6 +23,7 @@
 <!-- ── ABOUT ─────────────────────────────────────────────────── -->
 
 <img align="right" alt="Developer at work" width="310" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
 ```typescript
 const ayush = {
     pronouns    : "he" as const,
