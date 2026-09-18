@@ -1,196 +1,181 @@
-<div align="center">
+\<p align="center"> \<img src="assets/header.svg" width="100%" alt="Deepak Amal Winstar J Header" /> \</
+p>
 
-<!-- Hero Banner / Identity -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050e1d,50:0a192f,100:081c15&height=180&section=header&text=Ayush%20Das&fontSize=52&fontAlignY=42&desc=B.Tech%20CSE%20(AI%2FML)%20%E2%80%A2%20Aspiring%20ML%20Engineer&descAlignY=64&descAlign=50&fontColor=f8fafc&descSize=16&stroke=1e293b&strokeWidth=1" width="100%" alt="Ayush Das Header" />
+\<p align="center"> \<a href="https://github.com/DeepakAmalWinstarJ"> \<img src="https://readme-typing-
+svg.demolab.com?
 
-<br/>
+font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!
 
-<!-- Dynamic Terminal / Typing intro with Electric Sky Blue + Lime/Green-Yellow accents -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=520&lines=building+ml+systems+one+project+at+a+time;computer+vision+%E2%80%A2+ai+%E2%80%A2+geospatial+intel;minimal.+chill.+shipping+anyway.+%E2%9A%A1;open+to+collabs+%26+internships" alt="Typing SVG" />
-</a>
+%20I'm%20Deepak%20Amal%20Winstar%20J%20%F0%9F%91%8B;Computer%20Science%20Engineer%20%26%20Developer%20%F0%9F%8E%93;Full-
+Stack%20Web%20%26%20Mobile%20App%20Builder%20%F0%9F%92%BB;AI%2C%20Machine%20Learning%20%26%20IoT%20Innovator%20%F0%9F%A4%96;Turning%20random%20ideas%20into%20production%20code%20%E2%9A%A1"
 
-<br/>
+width="100%" style="max-width: 620px;" alt="Typing SVG" /> \</a> \</p>
+\<p align="center"> \<a href="https://linkedin.com/in/deepakamalwinstar" target="_blank"> \<img
 
-<!-- Minimal Badges Bar (Electric Blue & Chartreuse / Green-Yellow #a3e635) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/status-open%20to%20work%20%26%20collabs-a3e635?style=flat-square&logo=gitbook&logoColor=0f172a&labelColor=0a192f" alt="open to work" />
-  &nbsp;
-  <a href="https://github.com/ayushdas27?tab=followers">
-    <img src="https://img.shields.io/github/followers/ayushdas27?style=flat-square&color=38bdf8&labelColor=0a192f&label=followers" alt="followers" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ayushdas27&label=views&color=bef264&style=flat-square&labelColor=0a192f" alt="visitors" />
-</p>
+src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-
+badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" /> \</a> \<a href="https://
 
-</div>
+instagram.com/techwin.in" target="_blank"> \<img src="https://img.shields.io/badge/Instagram-Follow-
+DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" /> \</
 
-<br/>
+a> \<a href="https://leetcode.com/deepakamalwinstarj" target="_blank"> \<img src="https://img.shields.io/
+badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a"
+alt="LeetCode" /> \</a> \<a href="mailto\:deepakamalwinstarj\@gmail.com"> \<img src="https://
 
-<!-- ── ABOUT ME (Structured Bento Spec with Cyan/Blue and Green-Yellow / Lime accents) ─────────────── -->
-<table width="100%" style="border-collapse: collapse; border: 1px solid #1e293b; border-radius: 12px; overflow: hidden; background: #060b13;">
-<tr>
-<td width="65%" valign="top" style="padding: 24px; font-family: 'JetBrains Mono', 'Fira Code', monospace;">
+img.shields.io/badge/Email-Contact-DC2626?style=for-the-
+badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" /> \</a> \<a href="https://
 
-```typescript
-const ayush = {
-    pronouns    : "he" as const,
-    title       : "B.Tech CSE (AI/ML) · DPS Siliguri Alumnus",
-    stack       : ["Python", "C", "C#", "TypeScript", "Django", "MySQL"],
-    projects    : {
-        urbanSight : "AI-powered urban intelligence — CV + geospatial",
-        lunarAlign : "Chandrayaan-2 lunar image correspondence system",
-        quantam    : "Smart digital procurement platform",
-    },
-    achievements: [
-        "Smart India Hackathon · AI/ML",
-        "Cybersecurity Workshop",
-        "AI-Driven NLP Workshop",
-    ],
-    motto       : "Minimal. Chill. Shipping anyway. ⚡",
-    openTo      : ["collabs", "internships", "interesting problems"],
-} as const;
-```
+drive.google.com/file/d/1GY9lUeE9zneL9efZNbQOiWyH55UYrBXz/view?usp=sharing" target="_blank">
 
-</td>
-<td width="35%" valign="middle" align="center" style="padding: 20px; border-left: 1px solid #1e293b; background: #08111e;">
-  <img alt="Developer at work" width="220" style="border-radius: 12px; opacity: 0.9; filter: contrast(1.05) saturate(1.1);" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-  <br/><br/>
-  <code style="color: #a3e635; font-size: 11px;">system.status: executing ⚡</code>
-</td>
-</tr>
-</table>
+\<img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-
+badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" /> \</a> \<a href="https://
 
-<br/>
+github.com/DeepakAmalWinstarJ" target="_blank"> \<img src="https://img.shields.io/badge/GitHub-
+Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
 
-<!-- ── FEATURED PROJECTS ─────────────────────────────────────── -->
-<div align="left">
-  <h3 style="display: flex; align-items: center; gap: 8px; font-size: 17px; color: #f1f5f9; border-bottom: 1px solid #1e293b; padding-bottom: 8px; letter-spacing: -0.01em;">
-    <span style="color: #a3e635;">⚡</span> Featured Engineering & Research
-  </h3>
-</div>
+\</a> \</p>
+\<p align="center"> \<img src="https://komarev.com/ghpvc/?
+username=deepakamalwinstarj&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile
+Views" /> \</p>
 
-<table width="100%" style="border-collapse: separate; border-spacing: 12px; margin-top: 4px;">
-<tr>
-<!-- Project 1: UrbanSight -->
-<td width="50%" valign="top" style="background: #08111e; border: 1px solid #1e293b; border-radius: 10px; padding: 18px;">
-  <div>
-    <h4 style="margin: 0; color: #38bdf8; font-size: 15px;">🏙️ UrbanSight</h4>
-  </div>
-  <p style="font-size: 12.5px; color: #94a3b8; line-height: 1.5; margin: 10px 0 14px 0;">
-    AI-powered urban intelligence platform that uses computer vision and public transport fleets to detect road issues, analyze traffic and provide geospatial insights.
-  </p>
-  <p style="margin: 0 0 12px 0;">
-    <img src="https://img.shields.io/github/stars/ayushdas27/urban-mobility-intelligence-platform?style=flat-square&color=a3e635&labelColor=020617" />
-    <img src="https://img.shields.io/github/forks/ayushdas27/urban-mobility-intelligence-platform?style=flat-square&color=38bdf8&labelColor=020617" />
-    <img src="https://img.shields.io/github/languages/top/ayushdas27/urban-mobility-intelligence-platform?style=flat-square&color=bef264&labelColor=020617" />
-  </p>
-  <a href="https://github.com/ayushdas27/urban-mobility-intelligence-platform">
-    <img src="https://img.shields.io/badge/repository-explore%20source%20%E2%86%92-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="repo" />
-  </a>
-</td>
+\<h2 align="center"> About Me\</h2>
+\<p align="center"> \<img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.
++Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" />
+\</p>
+\<p align="center"> \<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340"
+style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" /> \</p>
 
-<!-- Project 2: LunarAlign -->
-<td width="50%" valign="top" style="background: #08111e; border: 1px solid #1e293b; border-radius: 10px; padding: 18px;">
-  <div>
-    <h4 style="margin: 0; color: #a3e635; font-size: 15px;">🌙 LunarAlign</h4>
-  </div>
-  <p style="font-size: 12.5px; color: #94a3b8; line-height: 1.5; margin: 10px 0 14px 0;">
-    AI-based lunar image correspondence system for identifying corresponding regions across Chandrayaan-2 imagery using computer vision and multimodal image analysis.
-  </p>
-  <p style="margin: 0 0 12px 0;">
-    <img src="https://img.shields.io/github/stars/ayushdas27/lunar-align?style=flat-square&color=a3e635&labelColor=020617" />
-    <img src="https://img.shields.io/github/forks/ayushdas27/lunar-align?style=flat-square&color=38bdf8&labelColor=020617" />
-    <img src="https://img.shields.io/github/languages/top/ayushdas27/lunar-align?style=flat-square&color=bef264&labelColor=020617" />
-  </p>
-  <a href="https://github.com/ayushdas27/lunar-align">
-    <img src="https://img.shields.io/badge/repository-explore%20source%20%E2%86%92-020617?style=flat-square&logo=github&logoColor=a3e635" alt="repo" />
-  </a>
-</td>
-</tr>
+1
 
-<tr>
-<!-- Project 3: QUANTAM -->
-<td width="50%" valign="top" style="background: #08111e; border: 1px solid #1e293b; border-radius: 10px; padding: 18px;">
-  <div>
-    <h4 style="margin: 0; color: #38bdf8; font-size: 15px;">📦 QUANTAM</h4>
-  </div>
-  <p style="font-size: 12.5px; color: #94a3b8; line-height: 1.5; margin: 10px 0 14px 0;">
-    Digital procurement solution designed to streamline procurement workflows and make the process more accessible and efficient.
-  </p>
-  <p style="margin: 0 0 12px 0;">
-    <img src="https://img.shields.io/github/stars/ayushdas27/QUANTAM?style=flat-square&color=a3e635&labelColor=020617" />
-    <img src="https://img.shields.io/github/forks/ayushdas27/QUANTAM?style=flat-square&color=38bdf8&labelColor=020617" />
-    <img src="https://img.shields.io/github/languages/top/ayushdas27/QUANTAM?style=flat-square&color=bef264&labelColor=020617" />
-  </p>
-  <a href="https://github.com/ayushdas27/QUANTAM">
-    <img src="https://img.shields.io/badge/repository-explore%20source%20%E2%86%92-020617?style=flat-square&logo=github&logoColor=38bdf8" alt="repo" />
-  </a>
-</td>
+\<p align="center"> Hey! I'm \<b>Deepak Amal Winstar J\</b>, a passionate \<b>Computer Science
+Engineering student & developer\</b> based in India.\<br /> I specialize in architecting scalable full-stack
+web platforms, integrating embedded IoT hardware, and deploying machine learning solutions to solve
+practical real-world problems. \</p>
+\<p align="center"> \<img src="https://img.shields.io/badge/Status- _Building_%26_Shipping-111111?
 
-<!-- More Repos / Exploration -->
-<td width="50%" valign="top" style="background: #08111e; border: 1px dashed #334155; border-radius: 10px; padding: 18px;">
-  <div>
-    <h4 style="margin: 0; color: #bef264; font-size: 15px;">✨ More In The Pipeline</h4>
-  </div>
-  <p style="font-size: 12.5px; color: #94a3b8; line-height: 1.5; margin: 10px 0 14px 0;">
-    Exploring real-world applications of AI/ML, computer vision pipelines, and scalable backend services — always building, always shipping.
-  </p>
-  <p style="margin: 0 0 12px 0;">
-    <img src="https://img.shields.io/badge/status-active%20experiments-a3e635?style=flat-square&labelColor=020617" />
-    <img src="https://img.shields.io/badge/focus-cv%20%2B%20mlops-38bdf8?style=flat-square&labelColor=020617" />
-  </p>
-  <a href="https://github.com/ayushdas27?tab=repositories">
-    <img src="https://img.shields.io/badge/github-view%20all%20repositories%20%E2%86%92-020617?style=flat-square&logo=github&logoColor=bef264" alt="all repos" />
-  </a>
-</td>
-</tr>
-</table>
+style=flat-square" alt="Status" /> \<img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-
+DC2626?style=flat-square" alt="Degree" /> \<img src="https://img.shields.io/badge/Focus-
+Full_Stack_%26_AI-111111?style=flat-square" alt="Focus" /> \</p>
 
-<br/>
+\<p align="center"> \<b>Let's Discuss:\</b> Java, C++, JavaScript, React, Spring Boot, System Architecture
+& Git Workflows.\<br /> \<b>Philosophy:\</b> \<i>"I love turning random late-night thoughts into fully
+deployed production software!"\</i> \</p>
+\<table width="100%" border="0" align="center"> \<tr> \<td width="50%" align="center" style="padding:
+14px;"> \<h4> Flagship Project\</h4> \<p>\<a href="https://opencore-mastitis-monitor.vercel.app/"
+target="_blank">\<b>OpenCore Monitor\</b>\</a>\<br />\<sub>Dairy IoT & Anomaly Detection\</sub>\</p>
+\</td> \<td width="50%" align="center" style="padding: 14px;"> \<h4> Active Deep Dives\</h4>
+\<p>\<b>DSA & Spring Boot\</b>\<br />\<sub>React Ecosystem & System Design\</sub>\</p> \</td> \</tr>
+\<tr> \<td width="50%" align="center" style="padding: 14px;"> \<h4> Tech Creator\</h4> \<p>\<a
+href="https://www.instagram.com/techwin.in/" target="_blank">\<b>@techwin.in\</b>\</a>\<br /
+>\<sub>Coding Guides & Insights\</sub>\</p> \</td> \<td width="50%" align="center" style="padding:
+14px;"> \<h4> Collaboration\</h4> \<p>\<b>AI, Web & IoT\</b>\<br />\<sub>Open to exciting new
+projects\</sub>\</p> \</td> \</tr> \</table>
 
-<!-- ── TECH STACK & METRICS DUAL BENTO ────────────────────────── -->
-<table width="100%" style="border-collapse: separate; border-spacing: 12px;">
-<tr>
-<td width="48%" valign="top" style="background: #060b13; border: 1px solid #1e293b; border-radius: 10px; padding: 18px;" align="center">
-  <p style="margin: 0 0 12px 0; font-size: 13px; font-weight: 600; color: #cbd5e1; text-transform: uppercase; letter-spacing: 0.05em;">🛠️ Tech Stack & Tooling</p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,git,vscode,mysql,ps&theme=dark" alt="languages & tools" />
-  </a>
-  <p style="margin: 12px 0 0 0; font-size: 11px; color: #64748b;">Python • C • Git • VS Code • MySQL • Photoshop</p>
-</td>
+\<h2 align="center"> Featured Project Spotlight\</h2>
+\<table width="100%" border="0" align="center"> \<tr> \<td align="center" style="padding: 22px;"> \<h3>
+OpenCore Mastitis Monitor\</h3> \<p>\<i>A smart IoT & web-enabled dairy health monitoring system
+designed for early anomaly detection and real-time livestock welfare tracking.\</i>\</p> \<br /> \<p> \<a
+href="https://opencore-mastitis-monitor.vercel.app/" target="_blank"> \<img src="https://img.shields.io/
 
-<td width="52%" valign="top" style="background: #060b13; border: 1px solid #1e293b; border-radius: 10px; padding: 14px;" align="center">
-  <p style="margin: 0 0 8px 0; font-size: 13px; font-weight: 600; color: #cbd5e1; text-transform: uppercase; letter-spacing: 0.05em;">📈 Contribution Streak</p>
-  <img src="https://streak-stats.demolab.com?user=ayushdas27&hide_border=true&background=060b13&stroke=1e293b&ring=38bdf8&fire=a3e635&currStreakNum=a3e635&sideNums=38bdf8&currStreakLabel=bef264&sideLabels=94a3b8&dates=475569" alt="streak" width="95%" />
-</td>
-</tr>
-</table>
+badge/Live%20Demo- %20Visit%20Platform-DC2626?style=for-the-
+badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" /> \</a> \<a href="https://
 
-<br/>
+github.com/DeepakAmalWinstarJ" target="_blank"> \<img src="https://img.shields.io/badge/
 
-<!-- ── CONNECT & FOOTER ───────────────────────────────────────── -->
-<div align="center" style="background: #060b13; border: 1px solid #1e293b; border-radius: 12px; padding: 20px;">
-  <p style="margin: 0 0 14px 0; font-size: 13px; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.1em; font-weight: 600;">Reach Out & Collaborate</p>
-  
-  <a href="https://www.linkedin.com/in/ayushdasofficial27112007/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="26" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/das_ayushh">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" height="26" alt="Twitter/X" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/yu.shhh_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="26" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="mailto:ayushdps2020@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="26" alt="Gmail" />
-  </a>
-  
-  <br/><br/>
-  <p style="margin: 0; font-size: 11px; color: #64748b; font-family: monospace;">
-    “Minimal. Chill. Shipping anyway. ⚡” — <span style="color: #a3e635;">Crafted with precision</span>
-  </p>
-</div>
+Source%20Code- %20View%20Projects-111111?style=for-the-
+badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" /> \</a> \</p> \</td> \</tr>
+
+\</table>
+
+\<h2 align="center"> LeetCode Problem Solving\</h2>
+\<p align="center">\<i>Live real-time tracker of coding challenges & algorithmic problem-solving
+milestones.\</i>\</p>
+
+2
+
+\<p align="center"> \<a href="https://leetcode.com/deepakamalwinstarj/" target="_blank"> \<img
+src="https://leetcard.jacoblin.cool/deepakamalwinstarj?theme=dark&font=Karma&border=0&radius=12"
+width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" /> \</a> \</p>
+\<p align="center"> \<a href="https://leetcode.com/deepakamalwinstarj/" target="_blank"> \<img
+
+src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-
+badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" /> \</a> \<a
+
+href="https://leetcode.com/deepakamalwinstarj/" target="_blank"> \<img src="https://img.shields.io/badge/
+
+Problems_Solved-Live_Tracker-DC2626?style=for-the-
+badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" /> \</a> \</p>
+
+\<h2 align="center"> Tech Stack & Skills\</h2>
+\<p align="center">\<b>Core Programming Languages\</b>\</p> \<p align="center"> \<a href="https://
+skillicons.dev"> \<img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,html,css&theme=dark"
+width="100%" style="max-width: 420px;" alt="Languages" /> \</a> \</p>
+\<p align="center">\<b>Frontend & Mobile Development\</b>\</p> \<p align="center"> \<a href="https://
+skillicons.dev"> \<img src="https://skillicons.dev/icons?
+i=react,angular,flutter,androidstudio,tailwind,bootstrap&theme=dark" width="100%" style="max-width:
+380px;" alt="Frontend and Mobile" /> \</a> \</p>
+\<p align="center">\<b>Backend, Cloud & Databases\</b>\</p> \<p align="center"> \<a href="https://
+skillicons.dev"> \<img src="https://skillicons.dev/icons?
+i=spring,nodejs,express,mongodb,mysql,firebase,aws&theme=dark" width="100%" style="max-width:
+420px;" alt="Backend and Databases" /> \</a> \</p>
+\<p align="center">\<b>AI, Data Science, Hardware & DevOps\</b>\</p> \<p align="center"> \<a
+href="https://skillicons.dev"> \<img src="https://skillicons.dev/icons?
+i=opencv,arduino,git,github,postman,linux,figma&theme=dark" width="100%" style="max-width: 420px;"
+alt="Tools and AI" /> \</a> \</p>
+
+\<p align="center"> \<img src="https://img.shields.io/badge/pandas-0a0a0a?style=for-the-
+badge&logo=pandas&logoColor=EF4444" alt="Pandas" /> \<img src="https://img.shields.io/badge/scikit--
+
+learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=EF4444" alt="Scikit-Learn" /> \<img
+src="https://img.shields.io/badge/Seaborn-0a0a0a?style=for-the-badge&logo=python&logoColor=EF4444"
+
+alt="Seaborn" /> \<img src="https://img.shields.io/badge/Selenium-0a0a0a?style=for-the-
+badge&logo=selenium&logoColor=EF4444" alt="Selenium" /> \</p>
+
+\<h2 align="center"> GitHub Analytics & Activity\</h2>
+\<p align="center"> \<img src="https://github-readme-stats-fast.vercel.app/api?
+username=deepakamalwinstarj&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8"
+
+width="100%" style="max-width: 440px;" alt="GitHub Stats" /> \<img src="https://github-readme-stats-
+3
+
+fast.vercel.app/api/top-langs/?
+username=deepakamalwinstarj&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8"
+width="100%" style="max-width: 350px;" alt="Top Languages" /> \</p>
+\<p align="center"> \<img src="https://github-readme-streak-stats.herokuapp.com/?
+user=deepakamalwinstarj&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999"
+width="100%" style="max-width: 480px;" alt="GitHub Streak" /> \</p>
+\<p align="center"> \<img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and
+Art Quote" /> \</p>
+
+\<h2 align="center"> Contribution Journey\</h2>
+
+\<p align="center"> \<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-
+grid-snake-dark.svg" width="100%" alt="Snake Animation" /> \</p>
+
+\<h2 align="center"> Let's Connect & Collaborate\</h2>
+\<p align="center">\<i>Whether you want to discuss system architecture, explore open-source
+collaboration, or just say hello — my inbox is always open!\</i>\</p>
+\<table border="0" align="center"> \<tr> \<td align="center" width="220" style="padding: 16px;"> \<a
+href="https://www.linkedin.com/in/deepakamalwinstar/" target="_blank"> \<img src="https://skillicons.dev/
+icons?i=linkedin" width="60" height="60" alt="LinkedIn" /> \<br />\<br /> \<img src="https://img.shields.io/
+
+badge/LinkedIn-Connect-DC2626?style=for-the-
+badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" /> \</a> \<br />
+
+\<sub>\<b>Professional Network\</b>\</sub> \</td> \<td align="center" width="220" style="padding:
+16px;"> \<a href="https://www.instagram.com/techwin.in/" target="_blank"> \<img src="https://
+skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" /> \<br />\<br /> \<img
+
+src="https://img.shields.io/badge/Instagram-@techwin.in-DC2626?style=for-the-
+badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" /> \</a> \<br />
+
+\<sub>\<b>Articles & Tech Guides\</b>\</sub> \</td> \<td align="center" width="220" style="padding:
+16px;"> \<a href="mailto\:deepakamalwinstarj\@gmail.com"> \<img src="https://skillicons.dev/icons?
+
+i=gmail" width="60" height="60" alt="Gmail" /> \<br />\<br /> \<img src="https://img.shields.io/badge/Email-
+Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+
+\</a> \<br /> \<sub>\<b>Direct Collaboration\</b>\</sub> \</td> \</tr> \</table>
+\<p align="center"> \<img src="assets/footer.svg" width="100%" alt="Footer" /> \</p>
