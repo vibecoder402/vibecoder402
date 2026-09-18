@@ -46,7 +46,7 @@ const ayush = {
 
 </td>
 <td width="35%" valign="middle" align="center" style="padding: 20px; border-left: 1px solid #1e293b; background: #08111e;">
-  <img alt="Developer at work" width="200" style="border-radius: 12px; opacity: 0.9; filter: contrast(1.05) saturate(1.1);" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+  <img alt="Developer at work" width="210" style="border-radius: 12px; opacity: 0.9; filter: contrast(1.05) saturate(1.1);" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
   <br/><br/>
   <code style="color: #a3e635; font-size: 11px;">system.status: executing ⚡</code>
 </td>
@@ -139,7 +139,7 @@ const ayush = {
 <a href="https://leetcode.com/u/ayushdas27/">
   <img
     src="https://leetcard.jacoblin.cool/ayushdas27?theme=dark&font=JetBrains%20Mono&ext=heatmap"
-    width="75%"
+    width="80%"
     alt="LeetCode Stats"
   />
 </a>
