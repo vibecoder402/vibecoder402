@@ -143,15 +143,28 @@ const ayush = {
 
 <!-- ── STATS ──────────────────────────────────────────────────── -->
 
-<h2 align="center">stats</h2>
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ayushdas27&hide_border=true&background=0f172a&stroke=1e293b&ring=34d399&fire=7dd3fc&currStreakNum=34d399&sideNums=7dd3fc&currStreakLabel=34d399&sideLabels=94a3b8&dates=475569" alt="streak" />
+<a href="https://github.com/gameszoom325-cell">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gameszoom325-cell&show_icons=true&hide_border=true&bg_color=050816&title_color=67e8f9&icon_color=a78bfa&text_color=cbd5e1&ring_color=06b6d4" alt="Ayush Singh's GitHub statistics" />
+</a>
+<a href="https://github.com/gameszoom325-cell">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gameszoom325-cell&layout=compact&hide_border=true&bg_color=050816&title_color=67e8f9&text_color=cbd5e1" alt="Ayush Singh's top languages" />
+</a>
+
+<br />
+
+<a href="https://github.com/gameszoom325-cell">
+  <img src="https://streak-stats.demolab.com?user=gameszoom325-cell&theme=transparent&hide_border=true&ring=06b6d4&fire=a78bfa&currStreakLabel=67e8f9&sideLabels=cbd5e1&dates=94a3b8" alt="Ayush Singh's GitHub streak" />
+</a>
+
+<br />
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=gameszoom325-cell&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies" />
+</a>
 
 </div>
-
-<br/>
 
 <!-- ── CONNECT ────────────────────────────────────────────────── -->
 
