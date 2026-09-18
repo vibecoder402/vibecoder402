@@ -1,477 +1,208 @@
-<p align="center">
+<div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Deepak Amal Winstar J Header" />
+<!-- ── HEADER ─────────────────────────────────────────────────── -->
 
-</p>
 
-<p align="center">
 
-<a href="https://github.com/DeepakAmalWinstarJ">
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com??font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Deepak%20Amal%20Winstar%20J%20%F0%9F%91%8B;Computer%20Science%20Engineer%20%26%20Developer%20%F0%9F%8E%93;Full-Stack%20Web%20%26%20Mobile%20App%20Builder%20%F0%9F%92%BB;AI%2C%20Machine%20Learning%20%26%20IoT%20Innovator%20%F0%9F%A4%96;Turning%20random%20ideas%20into%20production%20code%20%E2%9A%A1"&width=100%" style="max-width: 620px;" alt="Typing SVG" />
 
-</a>
 
-</p>
+<br/>
 
-<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ayushdas27&label=visitors&color=34d399&style=flat&labelColor=0f172a" alt="visitors" />
+&ensp;
+<a href="https://github.com/ayushdas27?tab=followers"><img src="https://img.shields.io/github/followers/ayushdas27?style=flat&color=7dd3fc&labelColor=0f172a&label=followers" alt="followers" /></a>
+&ensp;
+<img src="https://img.shields.io/badge/open%20to-internships%20%26%20collabs-34d399?style=flat&labelColor=0f172a" alt="open to work" />
 
-<a href="https://linkedin.com/in/deepakamalwinstar" target="_blank">
+</div>
 
-<img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+<br/>
 
-</a>
+<!-- ── ABOUT ─────────────────────────────────────────────────── -->
 
-<a href="https://
-
-instagram.com/techwin.in" target="_blank">
-
-<img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
-
-</
-
-a>
-
-<a href="https://leetcode.com/deepakamalwinstarj" target="_blank">
-
-<img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
-
-</a>
-
-<a href="mailto:deepakamalwinstarj@gmail.com">
-
-<img src="https://
-
-img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-
-</a>
-
-<a href="https://
-
-drive.google.com/file/d/1GY9lUeE9zneL9efZNbQOiWyH55UYrBXz/view?usp=sharing" target="_blank">
-
-<img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
-
-</a>
-
-<a href="https://
-
-github.com/DeepakAmalWinstarJ" target="_blank">
-
-<img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
-
-</a>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=deepakamalwinstarj&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
-
-</p>
-
-<h2 align="center"> About Me</h2>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" />
-
-</p>
-
-<p align="center">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
-
-</p>
-
-<p align="center"> Hey! I'm <b>Deepak Amal Winstar J</b>, a passionate <b>Computer Science Engineering student & developer</b> based in India.<br /> I specialize in architecting scalable full-stack web platforms, integrating embedded IoT hardware, and deploying machine learning solutions to solve practical real-world problems. </p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Status-_Building_%26_Shipping-111111??style=flat-square" alt="Status" />
-
-<img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-DC2626?style=flat-square" alt="Degree" />
-
-<img src="https://img.shields.io/badge/Focus-Full_Stack_%26_AI-111111?style=flat-square" alt="Focus" />
-
-</p>
-
-<p align="center">
-
-<b>Let's Discuss:</b> Java, C++, JavaScript, React, Spring Boot, System Architecture & Git Workflows.<br />
-
-<b>Philosophy:</b>
-
-<i>"I love turning random late-night thoughts into fully deployed production software!"</i>
-
-</p>
-
-<table width="100%" border="0" align="center">
-
+<table width="100%" style="border-collapse: collapse; border: 1px solid #1e293b; border-radius: 12px; overflow: hidden; background: #060b13;">
 <tr>
+<td width="65%" valign="top" style="padding: 24px; font-family: 'JetBrains Mono', 'Fira Code', monospace;">
 
-<td width="50%" align="center" style="padding: 14px;">
-
-<h4> Flagship Project</h4>
-
-<p>
-
-<a href="https://opencore-mastitis-monitor.vercel.app/" target="_blank">
-
-<b>OpenCore Monitor</b>
-
-</a>
-
-<br />
-
-<sub>Dairy IoT & Anomaly Detection</sub>
-
-</p>
-
-</td>
-
-<td width="50%" align="center" style="padding: 14px;">
-
-<h4> Active Deep Dives</h4>
-
-<p>
-
-<b>DSA & Spring Boot</b>
-
-<br />
-
-<sub>React Ecosystem & System Design</sub>
-
-</p>
+const ayush = {
+    pronouns    : "he" as const,
+    title       : "B.Tech CSE (AI/ML) · DPS Siliguri Alumnus",
+    stack       : ["Python", "C", "TypeScript", "MySQL"],
+    projects    : {
+        urbanSight : "AI-powered urban intelligence — CV + geospatial",
+        lunarAlign : "Chandrayaan-2 lunar image correspondence system",
+        quantam    : "Smart digital procurement platform",
+    },
+    achievements: [
+        "Smart India Hackathon · AI/ML",
+        "Cybersecurity Workshop",
+        "AI-Driven NLP Workshop",
+    ],
+    motto       : "Minimal. Chill. Shipping anyway. ⚡",
+    openTo      : ["collabs", "internships", "interesting problems"],
+} as const;
 
 </td>
-
+<td width="35%" valign="middle" align="center" style="padding: 20px; border-left: 1px solid #1e293b; background: #08111e;">
+  <img alt="Developer at work" width="200" style="border-radius: 12px; opacity: 0.9; filter: contrast(1.05) saturate(1.1);" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+  <br/><br/>
+  <code style="color: #a3e635; font-size: 11px;">system.status: executing ⚡</code>
+</td>
 </tr>
-
-<tr>
-
-<td width="50%" align="center" style="padding: 14px;">
-
-<h4> Tech Creator</h4>
-
-<p>
-
-<a href="https://www.instagram.com/techwin.in/" target="_blank">
-
-<b>@techwin.in</b>
-
-</a>
-
-<br />
-
-<sub>Coding Guides & Insights</sub>
-
-</p>
-
-</td>
-
-<td width="50%" align="center" style="padding: 14px;">
-
-<h4> Collaboration</h4>
-
-<p>
-
-<b>AI, Web & IoT</b>
-
-<br />
-
-<sub>Open to exciting new projects</sub>
-
-</p>
-
-</td>
-
-</tr>
-
 </table>
 
-<h2 align="center"> Featured Project Spotlight</h2>
+<br/>
 
-<table width="100%" border="0" align="center">
+<!-- ── FEATURED PROJECTS ─────────────────────────────────────── -->
 
+<h2 align="center">projects</h2>
+
+<div align="center">
+<table width="100%">
 <tr>
+<td width="50%" valign="top">
 
-<td align="center" style="padding: 22px;">
-
-<h3>OpenCore Mastitis Monitor</h3>
-
-<p>
-
-<i>A smart IoT & web-enabled dairy health monitoring system designed for early anomaly detection and real-time livestock welfare tracking.</i>
-
+<h3 align="center">🏙️ UrbanSight</h3>
+<p align="center">
+  <a href="https://github.com/ayushdas27/urban-mobility-intelligence-platform">
+    <img src="https://img.shields.io/badge/urban--mobility--intelligence--platform-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" alt="repo" />
+  </a>
 </p>
-
-<br />
-
-<p>
-
-<a href="https://opencore-mastitis-monitor.vercel.app/" target="_blank">
-
-<img src="https://img.shields.io/badge/Live%20Demo-%20Visit%20Platform-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
-
-</a>
-
-<a href="https://
-
-github.com/DeepakAmalWinstarJ" target="_blank">
-
-<img src="https://img.shields.io/badge/
-
-Source%20Code-%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
-
-</a>
-
+<p align="center">
+  <img src="https://img.shields.io/github/stars/ayushdas27/urban-mobility-intelligence-platform?style=flat&color=34d399&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/forks/ayushdas27/urban-mobility-intelligence-platform?style=flat&color=7dd3fc&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/languages/top/ayushdas27/urban-mobility-intelligence-platform?style=flat&color=34d399&labelColor=0f172a" />
 </p>
+<p align="center"><sub>AI-powered urban intelligence platform that uses computer vision and public transport fleets to detect road issues, analyze traffic and provide geospatial insights.</sub></p>
 
 </td>
+<td width="50%" valign="top">
 
+<h3 align="center">🌙 LunarAlign</h3>
+<p align="center">
+  <a href="https://github.com/ayushdas27/lunar-align">
+    <img src="https://img.shields.io/badge/lunar--align-0f172a?style=for-the-badge&logo=github&logoColor=34d399" alt="repo" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/ayushdas27/lunar-align?style=flat&color=34d399&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/forks/ayushdas27/lunar-align?style=flat&color=7dd3fc&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/languages/top/ayushdas27/lunar-align?style=flat&color=34d399&labelColor=0f172a" />
+</p>
+<p align="center"><sub>AI-based lunar image correspondence system for identifying corresponding regions across Chandrayaan-2 imagery using computer vision and multimodal image analysis.</sub></p>
+
+</td>
 </tr>
 
-</table>
-
-<h2 align="center"> LeetCode Problem Solving</h2>
-
-<p align="center">
-
-<i>Live real-time tracker of coding challenges & algorithmic problem-solvingmilestones.</i>
-
-</p>
-
-<p align="center">
-
-<a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
-
-<img src="https://leetcard.jacoblin.cool/deepakamalwinstarj?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
-
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
-
-<img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
-
-</a>
-
-<a
-
-href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
-
-<img src="https://img.shields.io/badge/
-
-Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
-
-</a>
-
-</p>
-
-<h2 align="center"> Tech Stack & Skills</h2>
-
-<p align="center">
-
-<b>Core Programming Languages</b>
-
-</p>
-
-<p align="center">
-
-<a href="https://skillicons.dev">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
-
-</a>
-
-</p>
-
-<p align="center">
-
-<b>Frontend & Mobile Development</b>
-
-</p>
-
-<p align="center">
-
-<a href="https://skillicons.dev">
-
-<img src="https://skillicons.dev/icons?i=react,angular,flutter,androidstudio,tailwind,bootstrap&theme=dark" width="100%" style="max-width: 380px;" alt="Frontend and Mobile" />
-
-</a>
-
-</p>
-
-<p align="center">
-
-<b>Backend, Cloud & Databases</b>
-
-</p>
-
-<p align="center">
-
-<a href="https://skillicons.dev">
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,firebase,aws&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
-
-</a>
-
-</p>
-
-<p align="center">
-
-<b>AI, Data Science, Hardware & DevOps</b>
-
-</p>
-
-<p align="center">
-
-<a href="https://skillicons.dev">
-
-<img src="https://skillicons.dev/icons?i=opencv,arduino,git,github,postman,linux,figma&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and AI" />
-
-</a>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=EF4444" alt="Pandas" />
-
-<img src="https://img.shields.io/badge/scikit--learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=EF4444" alt="Scikit-Learn" />
-
-<img src="https://img.shields.io/badge/Seaborn-0a0a0a?style=for-the-badge&logo=python&logoColor=EF4444"
-
-alt="Seaborn" />
-
-<img src="https://img.shields.io/badge/Selenium-0a0a0a?style=for-the-badge&logo=selenium&logoColor=EF4444" alt="Selenium" />
-
-</p>
-
-<h2 align="center"> GitHub Analytics & Activity</h2>
-
-<p align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=deepakamalwinstarj&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8"&width=100%" style="max-width: 440px;" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats--fast.vercel.app/api/top-langs/?username=deepakamalwinstarj&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakamalwinstarj&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
-
-</p>
-
-<p align="center">
-
-<img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code andArt Quote" />
-
-</p>
-
-<h2 align="center"> Contribution Journey</h2>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-
-</p>
-
-<h2 align="center"> Let's Connect & Collaborate</h2>
-
-<p align="center">
-
-<i>Whether you want to discuss system architecture, explore open-sourcecollaboration, or just say hello — my inbox is always open!</i>
-
-</p>
-
-<table border="0" align="center">
-
 <tr>
+<td width="50%" valign="top">
 
-<td align="center" width="220" style="padding: 16px;">
-
-<a href="https://www.linkedin.com/in/deepakamalwinstar/" target="_blank">
-
-<img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
-
-<br />
-
-<br />
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-
-</a>
-
-<br />
-
-<sub>
-
-<b>Professional Network</b>
-
-</sub>
-
-</td>
-
-<td align="center" width="220" style="padding: 16px;">
-
-<a href="https://www.instagram.com/techwin.in/" target="_blank">
-
-<img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" />
-
-<br />
-
-<br />
-
-<img src="https://img.shields.io/badge/Instagram-@techwin.in-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
-
-</a>
-
-<br />
-
-<sub>
-
-<b>Articles & Tech Guides</b>
-
-</sub>
-
-</td>
-
-<td align="center" width="220" style="padding: 16px;">
-
-<a href="mailto:deepakamalwinstarj@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
-
-<br />
-
-<br />
-
-<img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-
-</a>
-
-<br />
-
-<sub>
-
-<b>Direct Collaboration</b>
-
-</sub>
-
-</td>
-
-</tr>
-
-</table>
-
+<h3 align="center">📦 QUANTAM</h3>
 <p align="center">
-
-<img src="assets/footer.svg" width="100%" alt="Footer" />
-
+  <a href="https://github.com/ayushdas27/QUANTAM">
+    <img src="https://img.shields.io/badge/QUANTAM-0f172a?style=for-the-badge&logo=github&logoColor=7dd3fc" alt="repo" />
+  </a>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/ayushdas27/QUANTAM?style=flat&color=34d399&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/forks/ayushdas27/QUANTAM?style=flat&color=7dd3fc&labelColor=0f172a" />
+  <img src="https://img.shields.io/github/languages/top/ayushdas27/QUANTAM?style=flat&color=34d399&labelColor=0f172a" />
+</p>
+<p align="center"><sub>Digital procurement solution designed to streamline procurement workflows and make the process more accessible and efficient.</sub></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">✨ More Coming Soon</h3>
+<p align="center">
+  <a href="https://github.com/ayushdas27?tab=repositories">
+    <img src="https://img.shields.io/badge/view%20all%20repos-0f172a?style=for-the-badge&logo=github&logoColor=34d399" alt="all repos" />
+  </a>
+</p>
+<p align="center"><sub>Exploring real-world applications of AI/ML — always building, always shipping.</sub></p>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- ── LEETCODE ──────────────────────────────────────────────── -->
+
+<h2 align="center">leetcode</h2>
+
+<div align="center">
+
+<a href="https://leetcode.com/u/ayushdas27/">
+  <img
+    src="https://leetcard.jacoblin.cool/ayushdas27?theme=dark&font=JetBrains%20Mono&ext=heatmap"
+    width="75%"
+    alt="LeetCode Stats"
+  />
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/ayushdas27/">
+  <img
+    src="https://img.shields.io/badge/leetcode-profile-0f172a?style=for-the-badge&logo=leetcode&logoColor=FFA116"
+    alt="LeetCode Profile"
+  />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ── LANGUAGES & TOOLS ─────────────────────────────────────── -->
+
+<h2 align="center">languages & tools</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,c,git,vscode,mysql,ps&theme=dark" width="330" alt="languages & tools" />
+
+</div>
+
+<br/>
+
+<!-- ── STATS ──────────────────────────────────────────────────── -->
+
+<h2 align="center">stats</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ayushdas27&hide_border=true&background=0f172a&stroke=1e293b&ring=34d399&fire=7dd3fc&currStreakNum=34d399&sideNums=7dd3fc&currStreakLabel=34d399&sideLabels=94a3b8&dates=475569" width="700" alt="streak" />
+
+</div>
+
+<br/>
+
+<!-- ── CONNECT ────────────────────────────────────────────────── -->
+
+<h2 align="center">connect</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ayushdasofficial27112007/"><img src="https://img.shields.io/badge/linkedin-0f172a?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzc0ZDNmYyI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzcwLTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwIi8+PC9zdmc+" /></a>
+ 
+<a href="https://x.com/das_ayushh"><img src="https://img.shields.io/badge/twitter-0f172a?style=for-the-badge&logo=x&logoColor=34d399" /></a>
+ 
+<a href="https://www.instagram.com/yu.shhh_/"><img src="https://img.shields.io/badge/instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=7dd3fc" /></a>
+ 
+<a href="mailto:ayushdps2020@gmail.com"><img src="https://img.shields.io/badge/gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=34d399" /></a>
+
+</div>
+
+<br/>
+
+<!-- ── FOOTER ────────────────────────────────────────────────── -->
+
+<div align="center">
+
+
+
+</div>
