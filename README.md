@@ -163,7 +163,7 @@ const ayush = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,c,git,vscode,mysql,ps,arduino,kotlin,androidstudio&theme=dark" alt="languages & tools" />
+<img src="https://skillicons.dev/icons?i=py,c,git,vscode,mysql,ps,arduino,androidstudio&theme=dark" alt="languages & tools" />
 
 </div>
 
